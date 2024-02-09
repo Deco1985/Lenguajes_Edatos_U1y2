@@ -12,6 +12,7 @@ import java.util.Stack;
 /**
  *
  * @author Joan Miam Chan
+ * @Colaborator Deco Acierno
  */
 public class Restaurante {
     public static void main(String[] args) {
@@ -53,5 +54,5 @@ public class Restaurante {
         mesas.remove("Mesa 1");
         System.out.println("Mesas disponibles despues de la ocupación: " + mesas);
     
-}
+    }
 }
